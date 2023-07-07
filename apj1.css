@@ -1,0 +1,39 @@
+h1  {
+        color: black;
+        font-size: 50px;
+        margin: 0px;
+        text-align: center;
+        padding: 20px;
+    }
+ul  {
+        text-align: left;
+    }
+#award  
+    {
+        float: right;    
+        margin: 0 0 0 15px;
+    }
+#honor
+    {
+        float: right;    
+        margin: 0 0 0 15px;
+    }
+#Bio
+    {
+        float: right;    
+        margin: 0 0 0 15px;
+    }
+#book
+    {
+        float: right;    
+        margin: 0 0 0 15px;
+    }
+#legacy
+    {
+        float: right;    
+        margin: 0 0 0 15px;
+    }
+
+div{
+    padding: 30px 16px;
+}

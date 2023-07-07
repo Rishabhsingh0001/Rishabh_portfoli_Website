@@ -1,0 +1,28 @@
+/*css reset*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.topnav 
+    {
+        background-color: rgb(252, 252, 252);
+        overflow: hidden; /*to let the background color of nav bar look separate*/
+    }
+      
+     
+.topnav a 
+    {
+        float: right;
+        color: #000000;
+        padding: 14px 16px;
+        text-decoration: none; /* to avoid underline*/
+        font-size: 20px;
+    }
+      
+    
+.topnav a:hover 
+    {
+        background-color: rgb(0, 0, 0);
+        color: rgb(225, 225, 225);
+    }
